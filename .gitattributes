@@ -1,0 +1,6 @@
+1437665384_steam4.jpg filter=lfs diff=lfs merge=lfs -text
+385166666.jpg filter=lfs diff=lfs merge=lfs -text
+avatar.png filter=lfs diff=lfs merge=lfs -text
+background.jpg filter=lfs diff=lfs merge=lfs -text
+background2.jpg filter=lfs diff=lfs merge=lfs -text
+Sony[[:space:]]A6300[[:space:]]4K[[:space:]]Sample-[[:space:]]3840[[:space:]]x[[:space:]]2160,[[:space:]]24p,[[:space:]]XAVC[[:space:]]S[[:space:]](1).mp4 filter=lfs diff=lfs merge=lfs -text
